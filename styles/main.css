@@ -2870,10 +2870,10 @@ ul.pagination {
             color: rgb(66 40 214); }
     .single-posts .single-post .down-content p {
       margin-top: 0px;
-      text-align: left;
+      text-align: justify;
       border-bottom: none;
       margin-bottom: 0px;
-      padding-bottom: 0px; }
+      padding-bottom: 0px;}
     .single-posts .single-post .down-content p.first-paragraph {
       margin-top: 25px; }
     .single-posts .single-post .down-content p.last-paragraph {
